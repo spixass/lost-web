@@ -1,0 +1,12 @@
+{
+  "supabaseUrl": "https://oqupfdoxskobuhndhuuy.supabase.co",
+  "supabaseKey": "SUPABASE_ANON_KEY",
+  "webhookUrl": "https://discord.com/api/webhooks/1375954968460267531/...",
+  "clientId": "1376049903720992849",
+  "clientSecret": "HBkVpBYzzXztbpHCPn8W7NjdJfd3xRb7",
+  "redirectUri": "http://localhost:3000/auth/callback",
+  "botToken": "DISCORD_BOT_TOKEN",
+  "approvedRoleId": "1180091643152572436",
+  "guildId": "YOUR_GUILD_ID",
+  "adminRoleId": "1179886375332499579"
+}
